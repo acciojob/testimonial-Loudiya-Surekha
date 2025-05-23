@@ -1,17 +1,25 @@
 body {
     background-color: #f5f5f5;
-    padding: 10px;
 }
 
-.testimonials {
-    background-color: white;
+.testimonial-container {
     padding: 20px;
-    border: 1px solid white;
-	margin:20px;
+    background-color: #f5f5f5;
+}
+
+.testimonial {
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+
+.testimonial-text {
+    font-size: 16px;
 }
 
 .author {
     text-align: right;
     font-style: italic;
-    margin-top: 10px; 
+    margin-top: 10px;
 }
