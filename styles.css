@@ -4,12 +4,13 @@ body{
 }
 .testimonials{
 	background-color:white;
-	padding:10px;
-	border:1px solid white;
+	padding:20px;
+	border:1px solid #ccc;
 	margin:20px;
 	
 }
 .author{
 	text-align:right;
 	font-style:italic;
+	margin-top:10px;
 }
